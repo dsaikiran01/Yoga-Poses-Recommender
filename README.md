@@ -43,7 +43,7 @@ To set up and deploy this project on Google Cloud, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/yoga-pose-recommender.git
+   git clone https://github.com/dsaikiran01/Yoga-Poses-Recommender.git
    cd yoga-pose-recommender
    ```
 
@@ -103,13 +103,13 @@ To set up and deploy this project on Google Cloud, follow these steps:
 
 ## Project Demonstration
 
-- **Example Video**: 
+- **Deployment Video**: 
 
-  ![Deployment Video]()
+  https://github.com/user-attachments/assets/c43da786-fb62-46bc-9007-c3d982b6041c
 
 - **Deployment Screenshot**:
 
-  ![Deployment Screenshot]()
+  ![Deployment Screenshot](https://github.com/user-attachments/assets/3fa5a96c-3e77-47cc-be04-48741760033f)
 
 ## Acknowledgments
 
