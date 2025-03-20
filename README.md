@@ -2,6 +2,8 @@
 
 A Flask web application that demonstrates how to perform vector search on a Yoga Poses database stored in Firestore. This project integrates technologies such as Firestore, Vector Search, LangChain, and Gemini to create a contextual Yoga Pose recommender system.
 
+> **This project was developed as part of Google Cloud's Code Vipassana Season 9**  
+
 ## Overview
 
 This application showcases the following steps:
